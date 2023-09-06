@@ -1,5 +1,5 @@
 # wifidea
-![img]("wifidea.png")
+![img](wifidea.png)
 Wifi deauth attack automation toolkit for Raspberry Pi
 
 
