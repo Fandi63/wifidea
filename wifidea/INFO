@@ -1,0 +1,34 @@
+					---------------------
+
+						WIFIDEA 
+						
+					---------------------
+									
+						
+					A automation tool for
+					cybersecurity tasks.
+
+					WARNING! This tool is
+					for ethical hacking not
+					for illegal activities.
+					
+					
+
+
+
+
+
+					CREATORS OF THIS SOFTWARE
+					ARE NOT RESPONSIBLE FOR
+					ANY DAMAGE OR PROBLEMS
+					CAUSED BY THIS SOFTWARE!
+		---------------------------------------------------------------------------
+Usage: 
+
+To start the installation run: bash INSTALL
+
+wifidea - Starts a deauth attack on your router(modem). MAC adress specified in 'wifidea.c' file.
+wifidea-build - Builds wifidea into build folder.
+
+
+

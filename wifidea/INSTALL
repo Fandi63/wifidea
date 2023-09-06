@@ -1,0 +1,4 @@
+sudo apt install aircrack-ng
+sudo apt install clang
+sudo gcc wifidea_build.c -o /usr/bin/wifidea-build
+sudo gcc wifidea.c -o /usr/bin/wifidea
