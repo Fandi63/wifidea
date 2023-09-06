@@ -1,11 +1,10 @@
 # wifidea
 ![img](wifidea.png)
+
 Wifi deauth attack automation toolkit for Raspberry Pi
 
 
-
 WARNING! If you use it ilegaly it is your problem.
-
 Always respect the laws.
 
 I am sorry if its not writed properly i am Czech.
