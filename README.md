@@ -11,3 +11,4 @@ I am sorry if its not writed correctly i am Czech.
 
 I highly recommend to read the 'INFO' file for beginners.
 
+You will also need a wifi adapter compatible with Linux.
