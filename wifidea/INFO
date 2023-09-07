@@ -27,7 +27,7 @@ Usage:
 
 To start the installation run: bash INSTALL
 
-wifidea - Starts a deauth attack on your router(modem). MAC adress specified in 'wifidea.c' file.
+wifidea - Starts a deauth attack on your target router(modem). MAC adress specified in 'wifidea.c' file.
 wifidea-build - Builds wifidea into build folder.
 
 
